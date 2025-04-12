@@ -74,7 +74,7 @@ Before setting up, ensure you have:
 
 1. **Clone the project**  
    ```bash
-   git clone https://github.com/your-username/converserai.git
+   git clone https://github.com/CEORocks/converserai.git
    cd converserai
    ```
 
